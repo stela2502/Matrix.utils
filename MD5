@@ -1,0 +1,10 @@
+a0af29570a0a62792f488a41e01b476a *DESCRIPTION
+dc27053a3cd407772135a5eb3bd8e422 *NAMESPACE
+44222ac083d97f443cde164105d97335 *R/Matrix.utils.R
+d786194c7bbe5d424540c7f622f50062 *man/Matrix.utils.Rd
+c115db8a3459acb083c5c58279c262d3 *man/aggregate.Matrix.Rd
+daf46cd62a85511a96d4ba435fef2948 *man/dMcast.Rd
+7d4d9f6b76be8bc77c273a4d37bb8246 *man/merge.Matrix.Rd
+1d1cd0635a992c49893cdd2d85d99b67 *man/rBind.fill.Rd
+842011a177156dfa9c751bd0825220f7 *tests/testthat.R
+546882658fa6307265b9accd5ea01ca6 *tests/testthat/tests.R
